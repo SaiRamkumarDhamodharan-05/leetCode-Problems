@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
