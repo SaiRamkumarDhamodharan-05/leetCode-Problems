@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 ## Math
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
