@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
