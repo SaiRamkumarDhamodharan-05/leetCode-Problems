@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
