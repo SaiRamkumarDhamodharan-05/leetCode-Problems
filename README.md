@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
 | [3794-reverse-string-prefix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
