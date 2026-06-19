@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
