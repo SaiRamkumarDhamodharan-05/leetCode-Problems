@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
