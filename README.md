@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
+| [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
