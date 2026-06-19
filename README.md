@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,7 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0242-valid-anagram) |
-| [0709-to-lower-case](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
