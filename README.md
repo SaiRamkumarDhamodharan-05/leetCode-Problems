@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
