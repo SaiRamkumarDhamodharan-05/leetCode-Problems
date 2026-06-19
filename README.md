@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
