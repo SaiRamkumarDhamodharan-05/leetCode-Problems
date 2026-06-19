@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0412-fizz-buzz) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
