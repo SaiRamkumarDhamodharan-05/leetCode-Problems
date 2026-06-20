@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Tree
