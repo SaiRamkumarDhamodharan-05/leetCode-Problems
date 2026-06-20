@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
