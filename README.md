@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
