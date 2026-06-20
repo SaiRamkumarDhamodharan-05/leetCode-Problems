@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Tree
