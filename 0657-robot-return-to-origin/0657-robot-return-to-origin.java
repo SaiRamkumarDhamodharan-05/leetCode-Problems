@@ -4,9 +4,9 @@ class Solution {
         for(char i:moves.toCharArray())
         {
             if(i=='U') x++;
-            if(i=='D') x--;
-            if(i=='L') y--;
-            if(i=='R') y++;
+            else if(i=='D') x--;
+            else if(i=='L') y--;
+            else y++;
         }
         return x==0 && y==0;
     }
