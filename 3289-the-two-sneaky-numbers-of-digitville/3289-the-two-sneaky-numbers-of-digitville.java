@@ -1,7 +1,7 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
         int n=nums.length,k=0;
-        int[] ans=new int[n];
+        int[] ans=new int[2];
         HashMap<Integer,Integer> map=new HashMap<>();
         for(int i:nums)
         {
@@ -13,6 +13,6 @@ class Solution {
                 ans[k++]=entry.getKey();
             }
         }
-        return Arrays.copyOf(ans, k);
+        return ans;
     }
 }
