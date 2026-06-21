@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Game Theory
 |  |
