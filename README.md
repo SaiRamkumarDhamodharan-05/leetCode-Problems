@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
 |  |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
