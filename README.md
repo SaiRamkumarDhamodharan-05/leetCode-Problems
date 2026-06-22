@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
