@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
