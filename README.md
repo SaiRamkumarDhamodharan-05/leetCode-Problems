@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
@@ -272,9 +275,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
