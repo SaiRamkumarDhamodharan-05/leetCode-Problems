@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
