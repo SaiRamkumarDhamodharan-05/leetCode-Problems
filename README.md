@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3701-compute-alternating-sum) |
 ## Tree
 |  |
 | ------- |
