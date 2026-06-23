@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2544-alternating-digit-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
 | ------- |
