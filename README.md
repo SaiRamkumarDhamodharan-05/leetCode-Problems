@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
