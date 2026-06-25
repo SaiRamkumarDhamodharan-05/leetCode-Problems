@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
 | ------- |
