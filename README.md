@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1720-decode-xored-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
 | ------- |
