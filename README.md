@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1720-decode-xored-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
