@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1859-sorting-the-sentence) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
