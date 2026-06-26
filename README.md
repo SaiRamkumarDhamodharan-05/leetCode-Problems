@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3340-check-balanced-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2810-faulty-keyboard](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3701-compute-alternating-sum) |
