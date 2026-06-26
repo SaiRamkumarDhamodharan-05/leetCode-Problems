@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1952-three-divisors) |
 ## Queue
 |  |
