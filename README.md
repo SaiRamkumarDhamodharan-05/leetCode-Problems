@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
