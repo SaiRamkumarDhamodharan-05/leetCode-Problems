@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
 |  |
 | ------- |
