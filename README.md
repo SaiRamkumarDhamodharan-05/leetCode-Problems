@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
