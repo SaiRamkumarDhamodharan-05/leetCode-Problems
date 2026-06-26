@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2810-faulty-keyboard](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3174-clear-digits) |
