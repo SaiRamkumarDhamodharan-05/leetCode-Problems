@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3452-sum-of-good-numbers](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3452-sum-of-good-numbers) |
+| [3467-transform-array-by-parity](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3467-transform-array-by-parity](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
