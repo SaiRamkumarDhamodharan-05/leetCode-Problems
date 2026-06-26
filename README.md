@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2678-number-of-senior-citizens](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2810-faulty-keyboard](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2810-faulty-keyboard) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3110-score-of-a-string) |
