@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3663-find-the-least-frequent-digit](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Sliding Window
 |  |
 | ------- |
