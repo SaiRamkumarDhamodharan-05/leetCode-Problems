@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0682-baseball-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -411,10 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2974-minimum-number-game](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
