@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SaiRamkumarDhamodharan-05/leetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
 | ------- |
